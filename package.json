@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.2",
     "phantom": "^0.8.4",
     "swig": "^1.4.2"
   }
