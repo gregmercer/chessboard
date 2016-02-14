@@ -1,5 +1,5 @@
 # chessboard
-Dynamically creates a chessboard image (png) from reading in a chessboard.html file using NodeJs and Phantom
+Dynamically creates a chessboard image (png) from templating chessboard.tpl.html using NodeJs, Phantom, fs and swig
 
 Install the require packages:
 ```
